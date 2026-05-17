@@ -1,0 +1,20 @@
+{
+  "todos": [
+    {
+      "id": "oman0NVIqFU",
+      "text": "Hello World",
+      "status": 1
+    },
+    {
+      "id": "Abb5j0ludq8",
+      "text": "Hello Me",
+      "status": 1
+    },
+    {
+      "id": "9SAwDLYio40",
+      "text": "Hellooooooo!",
+      "status": 1
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
